@@ -1,0 +1,7 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Model checkpoints and large binaries
+models/*.keras
+models/*.h5
